@@ -1,1 +1,1 @@
-# Delivery Courier Simulation with connection to sql database
+# Delivery Courier Java Simulation with connection to sql database
